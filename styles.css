@@ -1,0 +1,83 @@
+body {
+  margin: 0;
+}
+
+input {
+  width: 32%;
+}
+
+#google-img {
+  text-align: center;
+  margin-top: 4rem;
+}
+
+#main-section {
+  text-align: center;
+  background-color: rgb(228, 228, 228);
+  width: 90%;
+  margin: auto;
+  padding: 0.2rem;
+}
+
+#main-section h4 {
+  margin: 2px;
+  color: rgb(82, 82, 82);
+}
+
+#search-button {
+  display: inline;
+}
+
+#special-searches {
+  text-align: center;
+  background-color: rgb(152, 226, 202);
+  width: 30%;
+  height: 5.1rem;
+  margin-right: 3px;
+}
+
+#special-searches a {
+  display: block;
+}
+
+#special-searches p {
+  margin: 1px;
+  font-weight: 600;
+}
+
+#anchors {
+  height: 5.1rem;
+  background-color: rgb(97, 209, 172);
+  width: 20%;
+  text-align: center;
+}
+#anchors a {
+  display: block;
+}
+
+#get-google {
+  margin-left: 3px;
+  text-align: center;
+  background-color: rgb(117, 204, 175);
+  width: 40%;
+  height: 5.1rem;
+}
+
+#get-google input {
+  display: block;
+  margin: auto;
+}
+
+#get-google p {
+  margin: 0;
+}
+
+#my-section {
+  display: flex;
+  justify-content: center;
+}
+
+#copyright {
+  text-align: center;
+  margin-top: 3rem;
+}
